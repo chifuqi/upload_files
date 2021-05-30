@@ -1,0 +1,15 @@
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\bin\Debug\log4net.config
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\bin\Debug\upload_files_winform.exe.config
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\bin\Debug\upload_files_winform.exe
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\bin\Debug\upload_files_winform.pdb
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\bin\Debug\log4net.dll
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\bin\Debug\log4net.xml
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\obj\Debug\upload_files_winform.MainForm.resources
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\obj\Debug\upload_files_winform.Properties.Resources.resources
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\obj\Debug\upload_files_winform.csproj.GenerateResource.cache
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\obj\Debug\upload_files_winform.csproj.CoreCompileInputs.cache
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\obj\Debug\upload_files_winform.csproj.CopyComplete
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\obj\Debug\upload_files_winform.exe
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\obj\Debug\upload_files_winform.pdb
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\bin\Debug\Newtonsoft.Json.dll
+E:\Documents\Other Projects\档案\upload_files\upload_files_winform\bin\Debug\Newtonsoft.Json.xml
