@@ -14,6 +14,7 @@ using log4net;
 using FaceRecognition.Utils;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using System.Threading;
 
 namespace upload_files_winform
 {
@@ -58,10 +59,12 @@ namespace upload_files_winform
                 DateTime endTime = DateTime.Now;
                 txtBox_log.AppendText("用时:" + endTime.Subtract(startTime).TotalMilliseconds + "ms \r\n");
                 i++;
+                Thread.Yield();
             }
 
 
             txtBox_log.AppendText("所有文件传输完成, 共传输" + i + "个文件");
+            
         }
 
         public void HttpUploadFile(string url, string jsessionid, string filePath, string fileName, string contentType, NameValueCollection nvc)
